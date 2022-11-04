@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+fieldset{
+  width: 20rem;
+  height: 20rem;
+  position: relative;
+  left: 38%;
+  margin: 20px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+}
+label{
+  margin: 10px;
+}
+input{
+  width: 18rem;
+  height: 1.5rem;
+  position: relative;
+  left: 10px;
+  bottom: 10px;
+  outline: none;
+}
+button{
+  width: 6rem;
+  height: 2rem;
+  position: relative;
+  left: 46%;
+}
+.container{
+  width: 20rem;
+  height: 10rem;
+  padding:15px;
+  background: #b5b0b0;
+  border-radius: 10px;
+  position: relative;
+  left: 39.1%;
+  top: 20px;
+  text-align: center;
+}
+span{
+  width: 50px;
+  color: #fff;
+}
