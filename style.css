@@ -8,9 +8,10 @@ fieldset{
   position: relative;
   left: 38%;
   margin: 20px;
-  padding: 15px;
+  padding: 15.1px;
   display: flex;
   flex-direction: column;
+
 }
 label{
   margin: 10px;
